@@ -7,6 +7,7 @@
 ## Moudles
 
 - [color_name](https://github.com/justjavac/deno_color_name) - A list of color names and its values
+- [language](https://github.com/justjavac/deno_language) - ISO 639-1 language
 - [vendors](https://github.com/justjavac/deno-vendors) - List of vendor prefixes known to the web platform
 
 ### License
