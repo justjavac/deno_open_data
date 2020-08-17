@@ -7,6 +7,7 @@
 ## Moudles
 
 - [color_name](https://github.com/justjavac/deno_color_name) - A list of color names and its values
+- [countries](https://github.com/michael-spengler/countries) - A module that assists in resolving media types and extensions.
 - [domain](https://github.com/justjavac/deno_domain) - Get all the top-level domains, including gTLDs such as `.com`, and country-code TLDs such as `.uk`.
 - [language](https://github.com/justjavac/deno_language) - ISO 639-1 language
 - [vendors](https://github.com/justjavac/deno-vendors) - List of vendor prefixes known to the web platform
