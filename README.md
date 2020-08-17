@@ -11,6 +11,7 @@
 - [domain](https://github.com/justjavac/deno_domain) - Get all the top-level domains, including gTLDs such as `.com`, and country-code TLDs such as `.uk`.
 - [language](https://github.com/justjavac/deno_language) - ISO 639-1 language
 - [media_types](https://github.com/oakserver/media_types) - A module that assists in resolving media types and extensions.
+- [mine_db](https://github.com/alirealasad/mime_db) - Media Type Database
 - [vendors](https://github.com/justjavac/deno-vendors) - List of vendor prefixes known to the web platform
 - [x256](https://github.com/justjavac/deno_x256) - Find the nearest xterm 256 color index for an rgb
 
